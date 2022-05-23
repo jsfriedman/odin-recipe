@@ -1,0 +1,15 @@
+.centered{
+    text-align: center;
+}
+
+.font24{
+    font-size: 24px;
+}
+body{
+    background-color: rgba(255, 207, 250, 0.5);
+    font-size: 24px;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
