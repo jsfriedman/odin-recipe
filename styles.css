@@ -13,3 +13,11 @@ body{
 h1, h2, h3 {
     text-align: center;
 }
+
+.img-description{
+    margin-top: 0em;
+}
+
+.no-margin{
+    margin: 0;
+}
